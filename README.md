@@ -71,6 +71,6 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma **iss
 
 - **Autor**: [João Marcello](https://github.com/Joaomarcellodev)  
 - **LinkedIn**: [João Marcello](https://www.linkedin.com/in/joaomarcellodev/)  
-- **Email**: joaomarcellodev@gmail.com  
+- **Email**: joaomarcellobraz@gmail.com  
 
 ---
