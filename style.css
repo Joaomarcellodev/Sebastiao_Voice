@@ -18,10 +18,11 @@ main {
 }
 
 main h1 {
-    font-size: 3vw; /* Ajustado para tamanhos maiores de tela */
+    font-size: 3w; /* Ajustado para tamanhos maiores de tela */
     color: #ffff;
     margin: 20px 0;
     text-align: center;
+    font-weight: bold;
 }
 
 textarea {
@@ -59,7 +60,9 @@ select, button {
     color: #ffff;
     border: none;
     outline: none;
+    font-weight: bold;
     border-radius: 15px;
+    font-size: 1rem;
 }
 
 select {
@@ -68,7 +71,7 @@ select {
 }
 
 button {
-    background: rgb(165, 201, 8);
+    background: rgb(140, 170, 7);
     padding: 10px 20px;
     cursor: pointer;
 }
