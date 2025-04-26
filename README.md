@@ -45,7 +45,7 @@
 
 ### 💻 Desktop
 <div align="center">
-  <img height="300" src="https://github.com/Joaomarcellodev/Sebastiao_Voice/blob/main/git/Sebatiao_Voice_desktop.png?raw=true" alt="Sebastião Voice - Desktop Preview" />
+  <img height="300" src="https://github.com/Joaomarcellodev/Sebastiao_Voice/blob/main/git/Sebastiao_Voice_desktop.png?raw=true" alt="Sebastião Voice - Desktop Preview" />
 </div>
 
 ---
